@@ -14,13 +14,13 @@ int main()
     cin >> M;
     
     
-    if ( M == 0){
+    // if ( M == 0){
 
-        result = 1;
-        cout << N << " to the " << M << " is " << result << endl;
-    }
+    //     result = 1;
+    //     cout << N << " to the " << M << " is " << result << endl;
+    // }
 
-    for (int i=N;pow!=M;i*=N){
+    for (int i=1;pow<=M;i*=N){
         
         result = i;
         pow++;
