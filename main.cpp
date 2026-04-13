@@ -28,10 +28,10 @@ int main()
         cout << result << " ";
 
         if (pow == M)
-            cout << N << " to the " << M << " is " << result << endl;
+            cout << "\n" << N << " to the " << M << " is " << result;
         
     }
-    cout << N << " to power number: " << M;
+    // cout << N << " to power number: " << M;
 
     // TODO
 
