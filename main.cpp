@@ -8,9 +8,9 @@ int main()
     int pow = 0;
     double result;
 
-    // cout << "Enter your base number: ";
+    cout << "Enter your base number: ";
     cin >> N;
-    // cout << "Enter your exponent: ";
+    cout << "Enter your exponent: ";
     cin >> M;
     
     
